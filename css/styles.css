@@ -1,0 +1,145 @@
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+}
+.top-container{
+    background-color: #EAF6f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 10px 0 10px;
+}
+h1{
+    color: #66BFBF;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-family: 'Sacramento';
+    font-size: 90px;
+}
+h2{
+    font-family: 'Montserrat';
+    color: #66BFBF;
+    font-size: 30px;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Montserrat';
+    color: #11999E;
+}
+.middle-container{
+    background-color: none;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 50px;
+    margin-top: 50px;
+    padding: 40px;
+}
+.second{
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    height: 40px;
+    width: 130px;
+}
+.first{
+    position: absolute;
+    right: 300px;
+    height: 40px;
+    width: 130px;
+}
+#photo{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+#coding-image{
+    width: 25%;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    margin-top: -20px;
+}
+.weights{
+    width: 25%;
+    height: 150px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    margin-top: -20px;
+}
+.hello{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 52.5%;
+    bottom: -54%;
+}
+.weight-gif{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    bottom: 8px;
+}
+#web-design{
+    position: absolute;
+    left: 43%;
+    top: 29%;
+    font-size: 25px;
+}
+.footer-link{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.first-description{
+    margin-top: auto;
+}
+.second-description{
+    margin-top: 15px;
+}
+.skill-header-one{
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.skill-header-two{
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: gray;
+    border-width: 5px;
+    width: 3%;
+    margin: 50px auto 50px auto;
+}
+.skill-content{
+    margin-top: -50px;
+    margin-bottom: -10px;
+}
+.btn{
+    text-decoration: none;
+    border: solid #11999E;
+    border-radius: 5px;
+    border-width: 7px;
+    color: white;
+    background-color: #11999E;
+    font-size: 13px;
+}
+.footer-link{
+    margin-top: 30px;
+    text-decoration: none;
+    color: #11999E;
+}
+.last-line{
+    color: #EAF6f6;
+    font-size: small;
+}
+.web{
+    text-decoration: none;
+    color: #2eaeae;
+}
